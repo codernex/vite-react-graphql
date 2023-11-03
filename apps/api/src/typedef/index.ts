@@ -5,7 +5,7 @@ const typeDefination = `#graphql
         name: String!
         email: String
         username:String!
-        password: String!
+        password: String
     }
 
     input UserInput {

@@ -1,4 +1,6 @@
-## Next JS APP Router & Express Graphql API
+## Vite React Apollo Graphql & Express Graphql API
+
+### Zero Configuration Ready TO Use Template
 
 ### How TO Use This Template
 
